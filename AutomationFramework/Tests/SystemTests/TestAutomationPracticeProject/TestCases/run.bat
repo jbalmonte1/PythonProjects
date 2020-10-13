@@ -1,0 +1,1 @@
+robot --pythonpath ../../../.. --debugfile debug.txt --loglevel debug --outputdir ../Results --include Smoke .
