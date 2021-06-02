@@ -11,4 +11,4 @@ requests == 2.24.0
 robotframework == 3.2.2
 scp == 0.13.2
 selenium == 3.141.0
-urllib3 == 1.25.9
+urllib3 == 1.26.5
